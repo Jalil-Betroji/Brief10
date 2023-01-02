@@ -1,0 +1,357 @@
+[
+    {
+      "Title": "Avatar",
+      "Runtime": "162 min",
+      "Director": "James Cameron",
+      "Year": "2009",
+      "Actors": [
+        {
+            "name" :"Sam Worthington",
+            "nationality" : "USA"
+        },
+        {
+            "name" :"Sigourney Weaver",
+            "nationality" : "USA"
+        },
+        {
+            "name" :"Stephen Lang",
+            "nationality" : "USA"
+        }
+      ],
+      "Poster": "https://m.media-amazon.com/images/I/41kTVLeW1CL._AC_.jpg",
+      "Festivals": ["- Berlin International Film Festival 2022","<br>- Glasgow International Film Festival 2022","<br>- Santa Barbara International Film Festival 2022","<br>- Hong Kong International Film Festival 2022"]
+    },
+    {
+      "Title": "I Am Legend",
+      "Runtime": "101 min",
+      "Director": "Francis Lawrence",
+      "Year": "2007",
+      "Actors": [
+        {
+            "name" :"Will Smith",
+            "nationality" : "USA"
+        },
+        {
+            "name" :"Alice braga",
+            "nationality" : "USA"
+        },
+        {
+            "name" :"Charlie tahan",
+            "nationality" : "USA"
+        }
+      ],
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCmv6___nhRZDstzfzMtW_iAFJ8IyeN_hqsZ1v9fk88Zu_IIogE5TYKt-JaeJzhtloLks&usqp=CAU",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "300",
+      "Runtime": "117 min",
+      "Director": "Zack Snyder",
+      "Year": "2006",
+      "Actors" :[
+        {
+            "name" :"Gerard Butler",
+            "nationality" : "UK"
+        },
+        {
+            "name" :"Lena Heady",
+            "nationality" : "USA"
+        },
+        {
+            "name" :"David wenham",
+            "nationality" : "USA"
+        }
+    ],
+      "Poster": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51327i1+KdL._AC_.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "The Avengers",
+      "Runtime": "143 min",
+      "Director": "Joss Whedon",
+      "Year": "2012",
+      "Actors": [
+        {
+            "name" :"Chris Hemsworth",
+            "nationality" : "Australian"
+        },
+        {
+            "name" :"Elizabeth Olsen",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Robert Downey Jr.",
+            "nationality" : "American"
+        }
+      ],
+      "Poster": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/719SFBdxRtL._AC_SL1000_.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "The Wolf of Wall Street",
+      "Year": "2013",
+      "Runtime": "180 min",
+      "Director": "Martin Scorsese",
+      "Actors": [
+        {
+            "name" :"Leonardo DiCaprio",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Jordan Belfort",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Margot Robbie",
+            "nationality" : "Australian"
+        }
+      ],
+      "Poster": "https://rukminim1.flixcart.com/image/832/832/jr6o13k0/poster/f/s/4/medium-wolf-of-wall-street-poster-for-room-office-13-inch-x-19-original-imafdfattbythzkj.jpeg?q=70",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "Interstellar",
+      "Year": "2014",
+      "Runtime": "169 min",
+      "Director": "Christopher Nolan",
+      "Actors": [
+        {
+            "name" :"Matthew McConaughey",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Jessica Chastain",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Matt Damon",
+            "nationality" : "American"
+        }
+      ],
+      "Poster": "https://cg2.cgsociety.org/uploads/images/medium/loki-the-hunter-interstellar-poster-1-5bf26d2b-bakj.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "Game of Thrones",
+      "Year": "2011",
+      "Runtime": "56 min",
+      "Director": " David Benioff",
+      "Actors": [
+        {
+            "name" :"Emilia Clarke",
+            "nationality" : "British"
+        },
+        {
+            "name" :"Kit Harington",
+            "nationality" : "British"
+        },
+        {
+            "name" :"Jason Momoa",
+            "nationality" : "American"
+        }
+      ],
+      "Poster": "https://arrestedmotion.com/wp-content/uploads/2013/03/Kilian-GOT-press_510x765.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "Vikings",
+      "Year": "2013",
+      "Runtime": "44 min",
+      "Director": "Johan Renck",
+      "Actors": [
+        {
+            "name" :"Travis Fimmel",
+            "nationality" : "Australian"
+        },
+        {
+            "name" :"Katheryn Winnick",
+            "nationality" : "Canadian"
+        },
+        {
+            "name" :"Clive Standen",
+            "nationality" : "British"
+        }
+      ],
+      "Poster": "https://storage.googleapis.com/stateless-campfire-pictures/2019/02/Vikings-Poster.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "Gotham",
+      "Year": "2014",
+      "Runtime": "42 min",
+      "Director": "Danny Cannon",
+      "Actors": [
+        {
+            "name" :"David Mazouz",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Ben McKenzie",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Camren Bicondova",
+            "nationality" : "American"
+        }
+      ],
+      "Poster": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51Vq3exGduL._AC_.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "The Hunger Games",
+      "Year": "2014",
+      "Runtime": "2h 22 min",
+      "Director": "Gary Ross",
+      "Actors": [
+        {
+            "name" :"Woody Harrelson",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Jennifer Lawrence",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Josh Hutcherson",
+            "nationality" : "American"
+        }
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/original/dv6yMYJOcg5dCv2bQ6JRKJO6QwP.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "Narcos",
+      "Year": "2015",
+      "Runtime": "49 min",
+      "Director": "Michael Stahl-David",
+      "Actors": [
+        {
+            "name" :"Wagner Moura",
+            "nationality" : "Brazilian"
+        },
+        {
+            "name" :"Pedro Pascal",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Boyd Holbrook",
+            "nationality" : "American"
+        }
+      ],
+      "Poster": "https://cdn.dribbble.com/users/1195991/screenshots/2951227/narcos.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "Breaking Bad",
+      "Year": "2008–2013",
+      "Runtime": "49 min",
+      "Director": " Vince Gilligan",
+      "Actors" : [
+        {
+            "name" :"Bryan Cranston",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Aaron Paul",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Anna Gunn",
+            "nationality" : "American"
+        }
+      ],
+      "Poster": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91RNSMNJlsL._AC_SY879_.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "Doctor Strange",
+      "Year": "2016",
+      "Runtime": "1h 55 min",
+      "Director": "Scott Derrickson",
+      "Actors": [
+        {
+            "name" :"Benedict Cumberbatch",
+            "nationality" : "British"
+        },
+        {
+            "name" :"Benedict Wong",
+            "nationality" : "British"
+        },
+        {
+            "name" :"Rachel McAdams",
+            "nationality" : "Canadian"
+        }
+      ],
+      "Poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/558ccc44580247.5817460fafa87.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "Rogue One: A Star Wars Story",
+      "Year": "2016",
+      "Runtime": "2h 13 min",
+      "Director": "Gareth Edwards",
+      "Actors": [
+        {
+            "name" :"Felicity Jones",
+            "nationality" : "British"
+        },
+        {
+            "name" :"Diego Luna",
+            "nationality" : "British"
+        },
+        {
+            "name" :"Mads Mikkelsen",
+            "nationality" : "Danish"
+        }
+      ],
+      "Poster": "https://m.media-amazon.com/images/I/610y687qVkL._AC_SY580_.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    },
+    {
+      "Title": "Life of pi",
+      "Year": "2016",
+      "Runtime": "2h 7 min",
+      "Director": "Justin Kurzel",
+      "Actors": [
+        {
+            "name" :"Ayush Tandon",
+            "nationality" : "Indya"
+  
+        },
+        {
+            "name" :"Suraj Sharma",
+            "nationality" : "Indya"
+  
+        },
+        {
+            "name" :"Ayan Khan",
+            "nationality" : "Indya"
+  
+        }
+      ],
+      "Poster": "https://www.heyuguys.com/images/2012/08/Life-of-Pi-Poster.jpg",
+      "Festivals": ["casablanca","tanger"]
+    },
+    {
+      "Title": "Luke Cage",
+      "Year": "2016",
+      "Runtime": "55 min",
+      "Director": "Steph Green",
+      "Actors": [
+        {
+            "name" :"Mike Colter",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Simone Missick",
+            "nationality" : "American"
+        },
+        {
+            "name" :"Theo Rossi",
+            "nationality" : "American"
+        }
+      ],
+      "Poster": "https://media.comicbook.com/2016/09/luke-cage-cuttonmouth-201196.jpg",
+      "Festivals": ["- True/False Film Fest 2022","<br>- SXSW 2022","<br>- CPH:DOX 2022"]
+    }
+  ]
