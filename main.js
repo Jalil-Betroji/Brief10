@@ -30,11 +30,11 @@ function buildTable() {
     }
     table += `
       <tr>
+      <td><img src="${bringData[i].Poster}" class="size"></td>
       <td>${bringData[i].Title}</td>
       <td>${bringData[i].Director}</td>
       <td>${bringData[i].Runtime}</td>
       <td>${bringData[i].Year}</td>
-      <td><img src="${bringData[i].Poster}" class="size"></td>
       <td>${bringData[i].Festivals}</td>
       <td>${ActorsList}</td>
       </tr>
@@ -53,8 +53,6 @@ function searchTable() {
     let table_data = row.textContent;
     search_data = search.value;
     row.classList.toggle("hide", table_data.indexOf(search_data) < 0);
-    row.style.setProperty("--delay", i / 25 + "s");
-    console.log(table_data.indexOf(search_data));
   });
 }
 

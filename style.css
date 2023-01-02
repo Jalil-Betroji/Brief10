@@ -3,8 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background: linear-gradient(#af8d8d , #a3aae9);
+}
 .container {
-    background-color: #dad8dc;
+    background-color: #dad8dc90;
     border-radius: 10px;
 }
 .Poster {
@@ -52,7 +55,7 @@ thead th.active {
     color: #6c00bd;
 }
  tbody td {
-    border: 1px solid rgb(213, 213, 213);
+    border: 1px solid #d5d5d5;
 }
 #search img {
     width: 1.2rem;
