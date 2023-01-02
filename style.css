@@ -28,14 +28,17 @@ thead span.icon-arrow {
 }
 thead th {
     border: 1px solid rgb(213, 213, 213);
-    cursor: pointer;
     background-color: #000000;
     color: white;
+    width: 20rem;
 }
-thead th:hover{
+thead th.click{
+    cursor: pointer;
+}
+thead th.click:hover{
     color: #6c00bd;
 }
-thead th.active span.icon-arrow{
+thead th.click.active span.icon-arrow{
     background-color: #6c00bd;
     color: white;
 }
@@ -54,9 +57,10 @@ thead th.active {
 #search img {
     width: 1.2rem;
     height: 1.2rem;
+    cursor: pointer;
 }
 #search input {
-    width: 25rem;
+    width: 95%;
     height: 2rem;
     margin: .5rem ;
     padding-left: 1rem;
@@ -67,6 +71,9 @@ thead th.active {
 ::placeholder{
     padding-left: 1rem;
 }
+.Size{
+    height: 20rem;
+}
 tbody tr.hide {
     opacity: 0;
     transform: translateX(100%) ease-in-out;
@@ -74,7 +81,7 @@ tbody tr.hide {
 tbody tr {
     --delay:.1s;
     transition: .5s ease-in-out var(--delay),background-color 0s;
-    background-color: #e2b4f8;
+    background-color: #eee;
 }tbody tr:hover{
     background-color: #fff6;
 }
@@ -82,9 +89,6 @@ tbody tr td , tbody tr td img {
     transition: .2s ease-in-out;
 }
 tbody tr.hide td {
-    padding: 0;
-    font: 0/0 sans-serif;
-    transition: .2s ease-in-out .2s;
     display: none;
 }
 tbody tr.hide td img {

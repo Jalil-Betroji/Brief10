@@ -2,15 +2,21 @@ var xhttp = new XMLHttpRequest();
 myTable = document.getElementById("targetTable");
 let cells;
 const search = document.querySelector("#search input");
-const table_headings = document.querySelectorAll("thead th");
+const table_headings = document.querySelectorAll(".click");
+
+// ======= Call our JSON  file and add it to our Page ========
+
+xhttp.open("GET", "movies.json", true);
+xhttp.send();
 xhttp.onreadystatechange = function () {
   if (this.readyState == 4 && this.status == 200) {
     bringData = JSON.parse(xhttp.responseText);
     buildTable();
   }
 };
-xhttp.open("GET", "movies.json", true);
-xhttp.send();
+
+// ======== Loop in our object and saving it in a variable ========
+
 function buildTable() {
   let table = "";
   for (let i = 0; i < bringData.length; i++) {
@@ -36,14 +42,14 @@ function buildTable() {
   }
   document.getElementById("Fulfill").innerHTML = table;
   cells = document.querySelectorAll("tbody tr");
-  console.log(cells);
   return cells;
 }
+
+// ======== Call our search input and filtter thz table using it =========
 
 search.addEventListener("input", searchTable);
 function searchTable() {
   cells.forEach((row, i) => {
-    // console.log(row.textContent);
     let table_data = row.textContent;
     search_data = search.value;
     row.classList.toggle("hide", table_data.indexOf(search_data) < 0);
@@ -51,6 +57,9 @@ function searchTable() {
     console.log(table_data.indexOf(search_data));
   });
 }
+
+// ======== add class to our Titles that will be sorted to style it using css =======
+
 table_headings.forEach((head, i) => {
   let sort_asc = true;
   head.onclick = () => {
@@ -61,6 +70,8 @@ table_headings.forEach((head, i) => {
     sort_Table(i, sort_asc);
   };
 });
+
+// ======= Convert our list to an array and sort it =======
 
 function sort_Table(column, sort_asc) {
   [...cells]
@@ -81,5 +92,3 @@ function sort_Table(column, sort_asc) {
       document.querySelector("tbody").appendChild(sorted_row)
     );
 }
-console.log(myTable);
-console.log(cells);
