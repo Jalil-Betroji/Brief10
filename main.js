@@ -42,7 +42,6 @@ function buildTable() {
   }
   document.getElementById("Fulfill").innerHTML = table;
   cells = document.querySelectorAll("tbody tr");
-  return cells;
 }
 
 // ======== Call our search input and filtter thz table using it =========
